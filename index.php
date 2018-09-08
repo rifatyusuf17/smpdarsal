@@ -18,7 +18,7 @@
 </head>
 <body>
   
-<div class="container col-lg-12" style="text-align: center;">
+<div class="container col-lg-12" style="text-align: center; background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAIa7ETrfoGGW5NQGdl_sZFi4IzbULauhiMUWBlxhLDekgpoW');">
   	<br>
   	<img src="assets/img/ds.jpg" style="width:85px; margin-bottom: 10px;" >
   	<h5>SMP TERPADU DARUSSALAM</h5>
@@ -26,7 +26,7 @@
 </div>
 
 
-<nav class="navbar navbar-expand-sm justify-content-center navbar-dark" style="background: green;">
+<nav class="navbar navbar-expand-sm justify-content-center navbar-dark" style="background: green; margin-top: -16px;">
   <ul class="navbar-nav">
     <li class="nav-item">
       <a class="nav-link" href="#">Link 1</a>
