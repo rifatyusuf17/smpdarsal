@@ -20,8 +20,9 @@
   
 <div class="container col-lg-12" style="text-align: center;">
   	<br>
-  	<img src="assets/img/ds.jpg" style="width:10%" >
-  	<h1>SMP TERPADU DARUSSALAM</h1>
+  	<img src="assets/img/ds.jpg" style="width:85px; margin-bottom: 10px;" >
+  	<h5>SMP TERPADU DARUSSALAM</h5>
+    <p style="font-size: 10.5pt; color: #999;">Jalankjljljkljljljlj lkkilknnlkj kjhlkh  jh khkh khh khkjh k bala-bala</p>
 </div>
 
 
