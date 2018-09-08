@@ -22,20 +22,22 @@
   	<br>
   	<img src="assets/img/ds.jpg" style="width:10%" >
   	<h1>SMP TERPADU DARUSSALAM</h1>
-  <div class="container">
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">HOME</a></li>
-      <li><a href="#">PROFILE</a></li>
-      <li><a href="#">INFORMASI</a></li>
-      <li><a href="#">GALLERY</a></li>
-      <li><a href="#">PMB</a></li>
-    </ul>
-  </div>.
 </div>
 
-  <div class="col-lg-12" style="text-align: center;">
-test
-  </div>
+
+<nav class="navbar navbar-expand-sm justify-content-center navbar-dark" style="background: green;">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 2</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 3</a>
+    </li>
+  </ul>
+</nav>
 
 </body>
 </html>
